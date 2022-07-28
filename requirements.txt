@@ -1,4 +1,4 @@
 python3
 pandas==1.4.2
 numpy==1.21.5
-data source == https://github.com/HamoyeHQ/HDSC-Introduction-to-Python-for-machine-learning
+Data Source == https://github.com/HamoyeHQ/HDSC-Introduction-to-Python-for-machine-learning
